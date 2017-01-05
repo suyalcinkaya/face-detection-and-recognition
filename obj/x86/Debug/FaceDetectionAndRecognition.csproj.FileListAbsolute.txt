@@ -1,0 +1,11 @@
+C:\Users\ONUR\Desktop\new\obj\x86\Debug\FaceDetectionAndRecognition.csprojResolveAssemblyReference.cache
+C:\Users\ONUR\Desktop\new\obj\x86\Debug\FaceDetectionAndRecognition.csproj.GenerateResource.Cache
+C:\Users\ONUR\Desktop\new\bin\Debug\Emgu.CV.xml
+C:\Users\ONUR\Desktop\new\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ONUR\Desktop\new\bin\Debug\Emgu.Util.xml
+C:\Users\ONUR\Desktop\new\obj\x86\Debug\FaceDetectionAndRecognition.FaceForm.resources
+C:\Users\ONUR\Desktop\new\obj\x86\Debug\FaceDetectionAndRecognition.Properties.Resources.resources
+C:\Users\ONUR\Desktop\new\obj\x86\Debug\FaceDetectionAndRecognition.exe
+C:\Users\ONUR\Desktop\new\obj\x86\Debug\FaceDetectionAndRecognition.pdb
+C:\Users\ONUR\Desktop\new\bin\Debug\FaceDetectionAndRecognition.exe
+C:\Users\ONUR\Desktop\new\bin\Debug\FaceDetectionAndRecognition.pdb
